@@ -1,4 +1,4 @@
-# A* vs Dijkstra — Cobán · Carchá · Chamelco
+# A* vs Dijkstra 
 
 ## Estructura del proyecto
 
