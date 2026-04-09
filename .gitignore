@@ -1,0 +1,18 @@
+# Entorno virtual
+venv/
+.env
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# OSMNX CACHE (CRÍTICO: pesa mucho y son archivos locales)
+cache/
+
+# Archivos de sistema y logs
+.DS_Store
+*.log
+
+# Librerías de VS Code u otros editores
+.vscode/
+.idea/
